@@ -14,7 +14,6 @@
  
  🌱 I’m currently learning **Python, GIT, POO**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
  </div>
  
 <div align="center"> 
