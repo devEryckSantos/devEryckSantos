@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a aviation food industry**
  
- 🌱 I’m currently learning **Python, GIT, POO**
+ 🌱 I’m currently learning **Python, GIT and IA**
 
  </div>
  
