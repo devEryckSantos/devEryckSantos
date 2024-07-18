@@ -1,9 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=devEryckSantos.devEyckSantos" />
 
-![Wallpaper](https://github.com/devEryckSantos/devEryckSantos/blob/main/assets/baixados.gif)
+![Wallpaper](https://github.com/devEryckSantos/devEryckSantos/blob/main/assets/Mienar.gif)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+My+name+is+Eryck+Santos!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+My+name+is+Eryck+Santos!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Brazil</h3>
@@ -14,7 +14,7 @@
  
  🔭 I’m currently working on **a aviation food industry**
  
- 🌱 I’m currently learning **Python, GIT and API**
+ 🌱 I’m currently learning **Python, FastAPI, SQLAlchemy and Docker**
 
  </div>
  
@@ -35,7 +35,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,vscode,git,github" /><br>
+    <img src="https://skillicons.dev/icons?i=python,fastapi,vscode,docker" /><br>
 </div>
 
 <br/>
