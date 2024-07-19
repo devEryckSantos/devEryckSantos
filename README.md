@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=devEryckSantos.devEyckSantos" />
 
-![Wallpaper](https://github.com/devEryckSantos/devEryckSantos/blob/main/assets/Mienar.gif)
+![Wallpaper](https://github.com/devEryckSantos/devEryckSantos/blob/main/assets/tumblr_owi25v6uAo1r4gsiio1_1280_gif%20(1000×300).gif)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+My+name+is+Eryck+Santos!;" />
