@@ -22,7 +22,7 @@ align="left"
 title="Linguagens e Tecnologias"
 width="500px"
 style="padding-right: 10px;"
-src="https://skillicons.dev/icons?i=py,fastapi,cs,dotnet,vscode,postgresql,mongodb" 
+src="https://skillicons.dev/icons?i=py,fastapi,cs,dotnet,vscode,postgresql,docker" 
 />
 
 <br/>
