@@ -20,9 +20,9 @@ Hi there! Me chamo Eryck Santos, tenho 22 anos e sou natural de Pernambuco. Sou 
 <img
 align="left"
 title="Linguagens e Tecnologias"
-width="500px"
+width="900px"
 style="padding-right: 10px;"
-src="https://skillicons.dev/icons?i=py,fastapi,cs,dotnet,vscode,postgresql,docker" 
+src="https://skillicons.dev/icons?i=py,fastapi,cs,dotnet,java,spring,idea,maven,vscode,postgresql,docker,postman" 
 />
 
 <br/>
