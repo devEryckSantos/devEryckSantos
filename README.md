@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Eryck Santos
+# 👨🏻‍💻 Eryck Santos
 
 **`Backend Developer`**
 
