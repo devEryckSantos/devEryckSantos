@@ -38,7 +38,7 @@ src="https://skillicons.dev/icons?i=py,fastapi,cs,dotnet,java,spring,angular,ide
 <img
     align="left"
     Title="GitHub Stats"
-    width="440"
+    width="400"
     style="padding-right: 10px;"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=devEryckSantos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7"
 />
@@ -46,7 +46,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=devEryckSant
 <img
     align="left"
     Title="GitHub Stats"
-    width="440"
+    width="400"
     style="padding-right: 10px;"
 src="https://github-readme-stats.vercel.app/api?username=devEryckSantos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 />
