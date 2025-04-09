@@ -14,7 +14,7 @@ Hi there! Me chamo Eryck Santos, tenho 22 anos e sou natural de Pernambuco. Sou 
 
 ---
 
-## Linguagens e Tecnologias
+## ⚒️ Tech Stacks
 <!-- referência: https://github.com/tandpfun/skill-icons -->
 
 <img
@@ -32,12 +32,12 @@ src="https://skillicons.dev/icons?i=py,fastapi,cs,dotnet,java,spring,angular,ide
 
 ---
 
-## Estatísticas
+## 💹 GitHub Stats
 <!-- referência: https://github.com/anuraghazra/github-readme-stats -->
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devEryckSantos&show_icons=true&theme=tokyonight&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devEryckSantos&show_icons=true&theme=tokyonight&title_color=B0E0E6&icon_color=B0E0E6&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devEryckSantos&layout=compact&theme=tokyonight&title_color=FF0000&text_color=ffffff&custom_title=Technologies&bg_color=0d1117&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devEryckSantos&layout=compact&theme=tokyonight&title_color=B0E0E6&text_color=ffffff&custom_title=Technologies&bg_color=0d1117&hide_border=true"/>
 />
