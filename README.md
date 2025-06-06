@@ -25,16 +25,11 @@
 <!-- referência: https://github.com/tandpfun/skill-icons -->
 
 <img
-align="left"
+align="center"
 title="Linguagens e Tecnologias"
-width="900px"
-style="padding-right: 10px;"
-src="https://skillicons.dev/icons?i=py,fastapi,cs,dotnet,java,spring,angular,idea,vscode,postgresql,mysql,docker" 
+width="1000px"
+src="https://go-skill-icons.vercel.app/api/icons?i=javascript,html,css,java,spring,quarkus,react,mysql,postgres,docker,kubernetes,vscode,idea&titles=true" 
 />
-
-<br/>
-<br/>
-
 
 ---
 
