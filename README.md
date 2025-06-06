@@ -1,8 +1,4 @@
-# 👨🏻‍💻 Eryck Santos
-
-**`Backend Developer`**
-
-Hi there! Me chamo Eryck Santos, tenho 22 anos e sou natural de Pernambuco. Sou acadêmico em **Análise de Desenvolvimento de Sistemas** com experiência prática em linguagens de programação como **Python** e **C#** no ambiente **.NET**. Carrego comigo uma forte paixão por ciência e tecnologia e compartilho meu conhecimento através da minha página no instagram [**Eryck Santos | Backend Developer**](https://www.instagram.com/erycksts.tech/), lá ensino conceitos básicos da minha área e discuto ideias e novidades do mundo da tecnologia.
+![Eryck Santos](https://github.com/devEryckSantos/user_attachments/blob/main/Eryck%20Santos.gif)
 
 <p 
     align="left">
@@ -12,7 +8,18 @@ Hi there! Me chamo Eryck Santos, tenho 22 anos e sou natural de Pernambuco. Sou 
     <img src="https://custom-icon-badges.demolab.com/badge/Pernambuco-BR-green?style=for-the-badge&logo=location&logoColor=yellow"/></a>          
 </p>
 
----
+
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=945734&width=435&separator=%3C&lines=new+UserEntity(%22Eryck+Santos%22);%3CSystem.out.println(%22Hello+World!%22);" alt="Typing SVG" /></a>
+<sup><sub>
+
+...
+
+...
+
+...
+
+</sub></sup>
+
 
 ## ⚒️ Tech Stacks
 <!-- referência: https://github.com/tandpfun/skill-icons -->
@@ -25,7 +32,6 @@ style="padding-right: 10px;"
 src="https://skillicons.dev/icons?i=py,fastapi,cs,dotnet,java,spring,angular,idea,vscode,postgresql,mysql,docker" 
 />
 
-<br/>
 <br/>
 <br/>
 
