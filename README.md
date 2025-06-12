@@ -12,7 +12,7 @@
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=945734&width=435&separator=%3C&lines=new+UserEntity(%22Eryck+Santos%22);%3CSystem.out.println(%22Hello+World!%22);" alt="Typing SVG" /></a>
 <sup><sub>
 
-Sou um estudante de Análise e Desenvolvimento de Sistemas e estagiário FullStack na Avanade. Desde de o inicio da minha jornada, obtive conhecimento prático em linguagens como Java e JavaScript. Além, de frameworks como Spring Boot, Quarkus e React.
+Sou um estudante de Análise e Desenvolvimento de Sistemas e estagiário FullStack na Avanade. Desde de o inicio da minha jornada, obtive conhecimento prático em linguagens como Java e JavaScript. Além de frameworks como Spring Boot, Quarkus e React.
 
 Sou movido pela ideia de que a tecnologia pode — e deve — ser uma aliada da transformação sustentável. Ainda novo, eu era uma criança curiosa que buscava entender entender como tudo no mundo funcionava e como as nossas ações podiam causar algum impacto nele.
 
