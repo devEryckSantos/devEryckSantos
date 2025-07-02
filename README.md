@@ -28,7 +28,7 @@ Vejo a inovação como ponte entre o presente e o futuro — e quero fazer parte
 align="center"
 title="Linguagens e Tecnologias"
 width="1000px"
-src="https://go-skill-icons.vercel.app/api/icons?i=javascript,html,css,java,spring,quarkus,react,mysql,postgres,docker,kubernetes,vscode,idea&titles=true" 
+src="https://go-skill-icons.vercel.app/api/icons?i=javascript,html,css,java,spring,react,mysql,postgres,sqlserver,vscode,idea&titles=true" 
 />
 
 ---
